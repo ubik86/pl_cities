@@ -1,0 +1,898 @@
+id, region_id, county_id,community_id,name
+1, 02, 01, 01, Bolesławiec 
+2, 02, 01, 04, Nowogrodziec 
+3, 02, 02, 01, Bielawa 
+4, 02, 02, 02, Dzierżoniów 
+5, 02, 02, 03, Pieszyce 
+6, 02, 02, 04, Piława Górna 
+7, 02, 02, 07, Niemcza 
+8, 02, 03, 01, Głogów 
+9, 02, 04, 01, Góra 
+10, 02, 04, 04, Wąsosz 
+11, 02, 05, 01, Jawor 
+12, 02, 05, 02, Bolków 
+13, 02, 06, 01, Karpacz 
+14, 02, 06, 02, Kowary 
+15, 02, 06, 03, Piechowice 
+16, 02, 06, 04, Szklarska Poręba 
+17, 02, 07, 01, Kamienna Góra 
+18, 02, 07, 03, Lubawka 
+19, 02, 08, 01, Duszniki-Zdrój 
+20, 02, 08, 02, Kłodzko 
+21, 02, 08, 03, Kudowa-Zdrój 
+22, 02, 08, 04, Nowa Ruda 
+23, 02, 08, 05, Polanica-Zdrój 
+24, 02, 08, 06, Bystrzyca Kłodzka 
+25, 02, 08, 08, Lądek-Zdrój 
+26, 02, 08, 10, Międzylesie 
+27, 02, 08, 12, Radków 
+28, 02, 08, 13, Stronie Śląskie 
+29, 02, 08, 14, Szczytna 
+30, 02, 09, 01, Chojnów 
+31, 02, 09, 07, Prochowice 
+32, 02, 10, 01, Lubań 
+33, 02, 10, 02, Świeradów-Zdrój 
+34, 02, 10, 03, Leśna 
+35, 02, 10, 05, Olszyna 
+36, 02, 11, 01, Lubin 
+37, 02, 11, 04, Ścinawa 
+38, 02, 12, 01, Gryfów Śląski 
+39, 02, 12, 02, Lubomierz 
+40, 02, 12, 03, Lwówek Śląski 
+41, 02, 12, 04, Mirsk 
+42, 02, 12, 05, Wleń 
+43, 02, 13, 03, Milicz 
+44, 02, 14, 01, Oleśnica 
+45, 02, 14, 02, Bierutów 
+46, 02, 14, 05, Międzybórz 
+47, 02, 14, 07, Syców 
+48, 02, 14, 08, Twardogóra 
+49, 02, 15, 01, Oława 
+50, 02, 15, 03, Jelcz-Laskowice 
+51, 02, 16, 01, Chocianów 
+52, 02, 16, 04, Polkowice 
+53, 02, 16, 05, Przemków 
+54, 02, 17, 04, Strzelin 
+55, 02, 17, 05, Wiązów 
+56, 02, 18, 04, Środa Śląska 
+57, 02, 19, 01, Świdnica 
+58, 02, 19, 02, Świebodzice 
+59, 02, 19, 04, Jaworzyna Śląska 
+60, 02, 19, 06, Strzegom 
+61, 02, 19, 08, Żarów 
+62, 02, 20, 01, Oborniki Śląskie 
+63, 02, 20, 02, Prusice 
+64, 02, 20, 03, Trzebnica 
+65, 02, 20, 06, Żmigród 
+66, 02, 21, 01, Boguszów-Gorce 
+67, 02, 21, 02, Jedlina-Zdrój 
+68, 02, 21, 03, Szczawno-Zdrój 
+69, 02, 21, 05, Głuszyca 
+70, 02, 21, 06, Mieroszów 
+71, 02, 21, 09, Wałbrzych 
+72, 02, 22, 01, Brzeg Dolny 
+73, 02, 22, 03, Wołów 
+74, 02, 23, 04, Kąty Wrocławskie 
+75, 02, 23, 07, Sobótka 
+76, 02, 23, 08, Siechnice 
+77, 02, 24, 01, Bardo 
+78, 02, 24, 05, Ząbkowice Śląskie 
+79, 02, 24, 06, Ziębice 
+80, 02, 24, 07, Złoty Stok 
+81, 02, 25, 01, Zawidów 
+82, 02, 25, 02, Zgorzelec 
+83, 02, 25, 03, Bogatynia 
+84, 02, 25, 04, Pieńsk 
+85, 02, 25, 06, Węgliniec 
+86, 02, 26, 01, Wojcieszów 
+87, 02, 26, 02, Złotoryja 
+88, 02, 26, 04, Świerzawa 
+89, 02, 61, 01, Jelenia Góra 
+90, 02, 62, 01, Legnica 
+91, 02, 64, 01, Wrocław 
+92, 04, 01, 01, Aleksandrów Kujawski 
+93, 04, 01, 02, Ciechocinek 
+94, 04, 01, 03, Nieszawa 
+95, 04, 02, 01, Brodnica 
+96, 04, 02, 05, Górzno 
+97, 04, 02, 07, Jabłonowo Pomorskie 
+98, 04, 03, 04, Koronowo 
+99, 04, 03, 08, Solec Kujawski 
+100, 04, 04, 01, Chełmno 
+101, 04, 05, 01, Golub-Dobrzyń 
+102, 04, 05, 04, Kowalewo Pomorskie 
+103, 04, 06, 03, Łasin 
+104, 04, 06, 04, Radzyń Chełmiński 
+105, 04, 07, 01, Inowrocław 
+106, 04, 07, 03, Gniewkowo 
+107, 04, 07, 05, Janikowo 
+108, 04, 07, 06, Kruszwica 
+109, 04, 07, 07, Pakość 
+110, 04, 08, 01, Lipno 
+111, 04, 08, 04, Dobrzyń nad Wisłą 
+112, 04, 08, 07, Skępe 
+113, 04, 09, 03, Mogilno 
+114, 04, 09, 04, Strzelno 
+115, 04, 10, 01, Kcynia 
+116, 04, 10, 02, Mrocza 
+117, 04, 10, 03, Nakło nad Notecią 
+118, 04, 10, 05, Szubin 
+119, 04, 11, 01, Radziejów 
+120, 04, 11, 05, Piotrków Kujawski 
+121, 04, 12, 01, Rypin 
+122, 04, 13, 01, Kamień Krajeński 
+123, 04, 13, 02, Sępólno Krajeńskie 
+124, 04, 13, 04, Więcbork 
+125, 04, 14, 06, Nowe 
+126, 04, 14, 09, Świecie 
+127, 04, 15, 01, Chełmża 
+128, 04, 16, 06, Tuchola 
+129, 04, 17, 01, Wąbrzeźno 
+130, 04, 18, 01, Kowal 
+131, 04, 18, 04, Brześć Kujawski 
+132, 04, 18, 06, Chodecz 
+133, 04, 18, 08, Izbica Kujawska 
+134, 04, 18, 11, Lubień Kujawski 
+135, 04, 18, 12, Lubraniec 
+136, 04, 19, 01, Barcin 
+137, 04, 19, 03, Janowiec Wielkopolski 
+138, 04, 19, 04, Łabiszyn 
+139, 04, 19, 06, Żnin 
+140, 04, 61, 01, Bydgoszcz 
+141, 04, 62, 01, Grudziądz 
+142, 04, 63, 01, Toruń 
+143, 04, 64, 01, Włocławek 
+144, 06, 01, 01, Międzyrzec Podlaski 
+145, 06, 01, 02, Terespol 
+146, 06, 02, 01, Biłgoraj 
+147, 06, 02, 05, Frampol 
+148, 06, 02, 07, Józefów 
+149, 06, 02, 12, Tarnogród 
+150, 06, 03, 01, Rejowiec Fabryczny 
+151, 06, 04, 01, Hrubieszów 
+152, 06, 05, 05, Janów Lubelski 
+153, 06, 06, 01, Krasnystaw 
+154, 06, 07, 01, Kraśnik 
+155, 06, 07, 02, Annopol 
+156, 06, 08, 01, Lubartów 
+157, 06, 08, 06, Kock 
+158, 06, 08, 10, Ostrów Lubelski 
+159, 06, 09, 01, Bełżyce 
+160, 06, 09, 03, Bychawa 
+161, 06, 10, 03, Łęczna 
+162, 06, 11, 01, Łuków 
+163, 06, 11, 02, Stoczek Łukowski 
+164, 06, 12, 05, Opole Lubelskie 
+165, 06, 12, 06, Poniatowa 
+166, 06, 13, 04, Parczew 
+167, 06, 14, 01, Puławy 
+168, 06, 14, 04, Kazimierz Dolny 
+169, 06, 14, 08, Nałęczów 
+170, 06, 15, 01, Radzyń Podlaski 
+171, 06, 16, 01, Dęblin 
+172, 06, 16, 04, Ryki 
+173, 06, 17, 01, Świdnik 
+174, 06, 17, 03, Piaski 
+175, 06, 18, 01, Tomaszów Lubelski 
+176, 06, 18, 12, Tyszowce 
+177, 06, 19, 01, Włodawa 
+178, 06, 20, 04, Krasnobród 
+179, 06, 20, 13, Szczebrzeszyn 
+180, 06, 20, 15, Zwierzyniec 
+181, 06, 61, 01, Biała Podlaska 
+182, 06, 62, 01, Chełm 
+183, 06, 63, 01, Lublin 
+184, 06, 64, 01, Zamość 
+185, 08, 01, 01, Kostrzyn nad Odrą 
+186, 08, 01, 07, Witnica 
+187, 08, 02, 01, Gubin 
+188, 08, 02, 06, Krosno Odrzańskie 
+189, 08, 03, 02, Międzyrzecz 
+190, 08, 03, 05, Skwierzyna 
+191, 08, 03, 06, Trzciel 
+192, 08, 04, 01, Nowa Sól 
+193, 08, 04, 02, Bytom Odrzański 
+194, 08, 04, 04, Kożuchów 
+195, 08, 04, 06, Nowe Miasteczko 
+196, 08, 05, 01, Cybinka 
+197, 08, 05, 03, Ośno Lubuskie 
+198, 08, 05, 04, Rzepin 
+199, 08, 05, 05, Słubice 
+200, 08, 06, 01, Dobiegniew 
+201, 08, 06, 02, Drezdenko 
+202, 08, 06, 04, Strzelce Krajeńskie 
+203, 08, 07, 02, Lubniewice 
+204, 08, 07, 04, Sulęcin 
+205, 08, 07, 05, Torzym 
+206, 08, 08, 05, Świebodzin 
+207, 08, 08, 06, Zbąszynek 
+208, 08, 09, 01, Babimost 
+209, 08, 09, 03, Czerwieńsk 
+210, 08, 09, 04, Kargowa 
+211, 08, 09, 05, Nowogród Bobrzański 
+212, 08, 09, 06, Sulechów 
+213, 08, 10, 01, Gozdnica 
+214, 08, 10, 02, Żagań 
+215, 08, 10, 04, Iłowa 
+216, 08, 10, 05, Małomice 
+217, 08, 10, 07, Szprotawa 
+218, 08, 11, 01, Łęknica 
+219, 08, 11, 02, Żary 
+220, 08, 11, 04, Jasień 
+221, 08, 11, 06, Lubsko 
+222, 08, 12, 01, Sława 
+223, 08, 12, 02, Szlichtyngowa 
+224, 08, 12, 03, Wschowa 
+225, 08, 61, 01, Gorzów Wielkopolski 
+226, 08, 62, 01, Zielona Góra 
+227, 10, 01, 01, Bełchatów 
+228, 10, 01, 08, Zelów 
+229, 10, 02, 01, Kutno 
+230, 10, 02, 04, Krośniewice 
+231, 10, 02, 11, Żychlin 
+232, 10, 03, 02, Łask 
+233, 10, 04, 01, Łęczyca 
+234, 10, 05, 01, Łowicz 
+235, 10, 06, 07, Koluszki 
+236, 10, 06, 10, Rzgów 
+237, 10, 06, 11, Tuszyn 
+238, 10, 07, 02, Drzewica 
+239, 10, 07, 04, Opoczno 
+240, 10, 08, 01, Konstantynów Łódzki 
+241, 10, 08, 02, Pabianice 
+242, 10, 09, 01, Działoszyn 
+243, 10, 09, 04, Pajęczno 
+244, 10, 10, 09, Sulejów 
+245, 10, 11, 03, Poddębice 
+246, 10, 11, 04, Uniejów 
+247, 10, 12, 01, Radomsko 
+248, 10, 12, 05, Kamieńsk 
+249, 10, 12, 11, Przedbórz 
+250, 10, 13, 01, Rawa Mazowiecka 
+251, 10, 13, 02, Biała Rawska 
+252, 10, 14, 01, Sieradz 
+253, 10, 14, 02, Błaszki 
+254, 10, 14, 09, Warta 
+255, 10, 14, 11, Złoczew 
+256, 10, 16, 01, Tomaszów Mazowiecki 
+257, 10, 17, 09, Wieluń 
+258, 10, 18, 07, Wieruszów 
+259, 10, 19, 01, Zduńska Wola 
+260, 10, 19, 02, Szadek 
+261, 10, 20, 01, Głowno 
+262, 10, 20, 02, Ozorków 
+263, 10, 20, 03, Zgierz 
+264, 10, 20, 04, Aleksandrów Łódzki 
+265, 10, 20, 08, Stryków 
+266, 10, 21, 01, Brzeziny 
+267, 10, 61, 01, Łódź 
+268, 10, 62, 01, Piotrków Trybunalski 
+269, 10, 63, 01, Skierniewice 
+270, 12, 01, 01, Bochnia 
+271, 12, 01, 06, Nowy Wiśnicz 
+272, 12, 02, 02, Brzesko 
+273, 12, 02, 03, Czchów 
+274, 12, 03, 01, Alwernia 
+275, 12, 03, 03, Chrzanów 
+276, 12, 03, 04, Libiąż 
+277, 12, 03, 05, Trzebinia 
+278, 12, 04, 02, Dąbrowa Tarnowska 
+279, 12, 04, 07, Szczucin 
+280, 12, 05, 01, Gorlice 
+281, 12, 05, 02, Biecz 
+282, 12, 05, 03, Bobowa 
+283, 12, 06, 06, Krzeszowice 
+284, 12, 06, 10, Skała 
+285, 12, 06, 11, Skawina 
+286, 12, 06, 12, Słomniki 
+287, 12, 06, 14, Świątniki Górne 
+288, 12, 07, 01, Limanowa 
+289, 12, 07, 02, Mszana Dolna 
+290, 12, 08, 05, Miechów 
+291, 12, 09, 01, Dobczyce 
+292, 12, 09, 03, Myślenice 
+293, 12, 09, 07, Sułkowice 
+294, 12, 10, 01, Grybów 
+295, 12, 10, 07, Krynica-Zdrój 
+296, 12, 10, 11, Muszyna 
+297, 12, 10, 13, Piwniczna-Zdrój 
+298, 12, 10, 16, Stary Sącz 
+299, 12, 11, 01, Nowy Targ 
+300, 12, 11, 02, Szczawnica 
+301, 12, 11, 12, Rabka-Zdrój 
+302, 12, 12, 01, Bukowno 
+303, 12, 12, 05, Olkusz 
+304, 12, 12, 07, Wolbrom 
+305, 12, 13, 01, Oświęcim 
+306, 12, 13, 02, Brzeszcze 
+307, 12, 13, 03, Chełmek 
+308, 12, 13, 04, Kęty 
+309, 12, 13, 09, Zator 
+310, 12, 14, 05, Proszowice 
+311, 12, 15, 01, Jordanów 
+312, 12, 15, 02, Sucha Beskidzka 
+313, 12, 15, 06, Maków Podhalański 
+314, 12, 16, 01, Ciężkowice 
+315, 12, 16, 06, Ryglice 
+316, 12, 16, 10, Tuchów 
+317, 12, 16, 13, Wojnicz 
+318, 12, 16, 14, Zakliczyn 
+319, 12, 16, 15, Żabno 
+320, 12, 17, 01, Zakopane 
+321, 12, 18, 01, Andrychów 
+322, 12, 18, 03, Kalwaria Zebrzydowska 
+323, 12, 18, 09, Wadowice 
+324, 12, 19, 04, Niepołomice 
+325, 12, 19, 05, Wieliczka 
+326, 12, 61, 01, Kraków 
+327, 12, 62, 01, Nowy Sącz 
+328, 12, 63, 01, Tarnów 
+329, 14, 01, 01, Białobrzegi 
+330, 14, 01, 06, Wyśmierzyce 
+331, 14, 02, 01, Ciechanów 
+332, 14, 02, 03, Glinojeck 
+333, 14, 03, 01, Garwolin 
+334, 14, 03, 02, Łaskarzew 
+335, 14, 03, 10, Pilawa 
+336, 14, 03, 14, Żelechów 
+337, 14, 04, 01, Gostynin 
+338, 14, 05, 01, Milanówek 
+339, 14, 05, 02, Podkowa Leśna 
+340, 14, 05, 04, Grodzisk Mazowiecki 
+341, 14, 06, 05, Grójec 
+342, 14, 06, 07, Mogielnica 
+343, 14, 06, 08, Nowe Miasto nad Pilicą 
+344, 14, 06, 11, Warka 
+345, 14, 07, 05, Kozienice 
+346, 14, 08, 01, Legionowo 
+347, 14, 08, 04, Serock 
+348, 14, 09, 03, Lipsko 
+349, 14, 10, 02, Łosice 
+350, 14, 11, 01, Maków Mazowiecki 
+351, 14, 11, 07, Różan 
+352, 14, 12, 01, Mińsk Mazowiecki 
+353, 14, 12, 07, Halinów 
+354, 14, 12, 09, Kałuszyn 
+355, 14, 12, 15, Sulejówek 
+356, 14, 13, 01, Mława 
+357, 14, 14, 01, Nowy Dwór Mazowiecki 
+358, 14, 14, 04, Nasielsk 
+359, 14, 14, 06, Zakroczym 
+360, 14, 15, 08, Myszyniec 
+361, 14, 16, 01, Ostrów Mazowiecka 
+362, 14, 16, 04, Brok 
+363, 14, 17, 01, Józefów 
+364, 14, 17, 02, Otwock 
+365, 14, 17, 04, Karczew 
+366, 14, 18, 01, Góra Kalwaria 
+367, 14, 18, 02, Konstancin-Jeziorna 
+368, 14, 18, 04, Piaseczno 
+369, 14, 18, 06, Tarczyn 
+370, 14, 19, 05, Drobin 
+371, 14, 19, 06, Gąbin 
+372, 14, 19, 15, Wyszogród 
+373, 14, 20, 01, Płońsk 
+374, 14, 20, 02, Raciąż 
+375, 14, 21, 01, Piastów 
+376, 14, 21, 02, Pruszków 
+377, 14, 21, 03, Brwinów 
+378, 14, 22, 01, Przasnysz 
+379, 14, 22, 02, Chorzele 
+380, 14, 23, 06, Przysucha 
+381, 14, 24, 04, Pułtusk 
+382, 14, 25, 01, Pionki 
+383, 14, 25, 03, Iłża 
+384, 14, 25, 10, Skaryszew 
+385, 14, 26, 05, Mordy 
+386, 14, 27, 01, Sierpc 
+387, 14, 28, 01, Sochaczew 
+388, 14, 29, 01, Sokołów Podlaski 
+389, 14, 29, 05, Kosów Lacki 
+390, 14, 30, 05, Szydłowiec 
+391, 14, 32, 01, Błonie 
+392, 14, 32, 05, Łomianki 
+393, 14, 32, 06, Ożarów Mazowiecki 
+394, 14, 33, 01, Węgrów 
+395, 14, 33, 05, Łochów 
+396, 14, 34, 01, Kobyłka 
+397, 14, 34, 02, Marki 
+398, 14, 34, 03, Ząbki 
+399, 14, 34, 04, Zielonka 
+400, 14, 34, 09, Radzymin 
+401, 14, 34, 11, Tłuszcz 
+402, 14, 34, 12, Wołomin 
+403, 14, 35, 05, Wyszków 
+404, 14, 36, 05, Zwoleń 
+405, 14, 37, 01, Bieżuń 
+406, 14, 37, 06, Żuromin 
+407, 14, 38, 01, Żyrardów 
+408, 14, 38, 02, Mszczonów 
+409, 14, 61, 01, Ostrołęka 
+410, 14, 62, 01, Płock 
+411, 14, 63, 01, Radom 
+412, 14, 64, 01, Siedlce 
+413, 14, 65, 01, Warszawa 
+414, 16, 01, 01, Brzeg 
+415, 16, 01, 03, Grodków 
+416, 16, 01, 04, Lewin Brzeski 
+417, 16, 02, 01, Baborów 
+418, 16, 02, 03, Głubczyce 
+419, 16, 02, 04, Kietrz 
+420, 16, 03, 01, Kędzierzyn-Koźle 
+421, 16, 04, 01, Byczyna 
+422, 16, 04, 02, Kluczbork 
+423, 16, 04, 04, Wołczyn 
+424, 16, 05, 01, Gogolin 
+425, 16, 05, 02, Krapkowice 
+426, 16, 05, 05, Zdzieszowice 
+427, 16, 06, 02, Namysłów 
+428, 16, 07, 01, Głuchołazy 
+429, 16, 07, 03, Korfantów 
+430, 16, 07, 05, Nysa 
+431, 16, 07, 06, Otmuchów 
+432, 16, 07, 07, Paczków 
+433, 16, 08, 01, Dobrodzień 
+434, 16, 08, 02, Gorzów Śląski 
+435, 16, 08, 03, Olesno 
+436, 16, 08, 04, Praszka 
+437, 16, 09, 07, Niemodlin 
+438, 16, 09, 08, Ozimek 
+439, 16, 09, 10, Prószków 
+440, 16, 10, 01, Biała 
+441, 16, 10, 02, Głogówek 
+442, 16, 10, 04, Prudnik 
+443, 16, 11, 03, Kolonowskie 
+444, 16, 11, 04, Leśnica 
+445, 16, 11, 05, Strzelce Opolskie 
+446, 16, 11, 06, Ujazd 
+447, 16, 11, 07, Zawadzkie 
+448, 16, 61, 01, Opole 
+449, 18, 01, 08, Ustrzyki Dolne 
+450, 18, 02, 01, Brzozów 
+451, 18, 03, 01, Dębica 
+452, 18, 03, 02, Brzostek 
+453, 18, 03, 06, Pilzno 
+454, 18, 04, 01, Jarosław 
+455, 18, 04, 02, Radymno 
+456, 18, 05, 01, Jasło 
+457, 18, 06, 02, Kolbuszowa 
+458, 18, 07, 02, Dukla 
+459, 18, 07, 03, Iwonicz-Zdrój 
+460, 18, 07, 04, Jedlicze 
+461, 18, 07, 08, Rymanów 
+462, 18, 08, 01, Leżajsk 
+463, 18, 08, 05, Nowa Sarzyna 
+464, 18, 09, 01, Lubaczów 
+465, 18, 09, 02, Cieszanów 
+466, 18, 09, 05, Narol 
+467, 18, 09, 06, Oleszyce 
+468, 18, 10, 01, Łańcut 
+469, 18, 11, 01, Mielec 
+470, 18, 11, 08, Radomyśl Wielki 
+471, 18, 12, 05, Nisko 
+472, 18, 12, 06, Rudnik nad Sanem 
+473, 18, 12, 07, Ulanów 
+474, 18, 14, 01, Przeworsk 
+475, 18, 14, 05, Kańczuga 
+476, 18, 14, 07, Sieniawa 
+477, 18, 15, 03, Ropczyce 
+478, 18, 15, 04, Sędziszów Małopolski 
+479, 18, 16, 01, Dynów 
+480, 18, 16, 02, Błażowa 
+481, 18, 16, 03, Boguchwała 
+482, 18, 16, 06, Głogów Małopolski 
+483, 18, 16, 11, Sokołów Małopolski 
+484, 18, 16, 14, Tyczyn 
+485, 18, 17, 01, Sanok 
+486, 18, 17, 07, Zagórz 
+487, 18, 18, 01, Stalowa Wola 
+488, 18, 19, 04, Strzyżów 
+489, 18, 20, 01, Baranów Sandomierski 
+490, 18, 20, 04, Nowa Dęba 
+491, 18, 21, 03, Lesko 
+492, 18, 61, 01, Krosno 
+493, 18, 62, 01, Przemyśl 
+494, 18, 63, 01, Rzeszów 
+495, 18, 64, 01, Tarnobrzeg 
+496, 20, 01, 01, Augustów 
+497, 20, 01, 04, Lipsk 
+498, 20, 02, 01, Choroszcz 
+499, 20, 02, 02, Czarna Białostocka 
+500, 20, 02, 06, Łapy 
+501, 20, 02, 07, Michałowo 
+502, 20, 02, 09, Supraśl 
+503, 20, 02, 10, Suraż 
+504, 20, 02, 12, Tykocin 
+505, 20, 02, 13, Wasilków 
+506, 20, 02, 14, Zabłudów 
+507, 20, 03, 01, Bielsk Podlaski 
+508, 20, 03, 02, Brańsk 
+509, 20, 04, 01, Grajewo 
+510, 20, 04, 04, Rajgród 
+511, 20, 04, 05, Szczuczyn 
+512, 20, 05, 01, Hajnówka 
+513, 20, 05, 07, Kleszczele 
+514, 20, 06, 01, Kolno 
+515, 20, 06, 05, Stawiski 
+516, 20, 07, 01, Jedwabne 
+517, 20, 07, 04, Nowogród 
+518, 20, 08, 01, Goniądz 
+519, 20, 08, 04, Knyszyn 
+520, 20, 08, 06, Mońki 
+521, 20, 09, 01, Sejny 
+522, 20, 10, 01, Siemiatycze 
+523, 20, 10, 02, Drohiczyn 
+524, 20, 11, 01, Dąbrowa Białostocka 
+525, 20, 11, 04, Krynki 
+526, 20, 11, 08, Sokółka 
+527, 20, 11, 09, Suchowola 
+528, 20, 13, 01, Wysokie Mazowieckie 
+529, 20, 13, 02, Ciechanowiec 
+530, 20, 14, 01, Zambrów 
+531, 20, 61, 01, Białystok 
+532, 20, 62, 01, Łomża 
+533, 20, 63, 01, Suwałki 
+534, 22, 01, 02, Bytów 
+535, 22, 01, 06, Miastko 
+536, 22, 02, 01, Chojnice 
+537, 22, 02, 02, Brusy 
+538, 22, 02, 04, Czersk 
+539, 22, 03, 01, Człuchów 
+540, 22, 03, 02, Czarne 
+541, 22, 03, 04, Debrzno 
+542, 22, 04, 01, Pruszcz Gdański 
+543, 22, 05, 02, Kartuzy 
+544, 22, 05, 08, Żukowo 
+545, 22, 06, 01, Kościerzyna 
+546, 22, 07, 01, Kwidzyn 
+547, 22, 07, 04, Prabuty 
+548, 22, 08, 01, Lębork 
+549, 22, 08, 02, Łeba 
+550, 22, 09, 01, Malbork 
+551, 22, 09, 07, Nowy Staw 
+552, 22, 10, 01, Krynica Morska 
+553, 22, 10, 02, Nowy Dwór Gdański 
+554, 22, 11, 01, Hel 
+555, 22, 11, 02, Jastarnia 
+556, 22, 11, 03, Puck 
+557, 22, 11, 04, Władysławowo 
+558, 22, 12, 01, Ustka 
+559, 22, 12, 05, Kępice 
+560, 22, 13, 01, Czarna Woda 
+561, 22, 13, 02, Skórcz 
+562, 22, 13, 03, Starogard Gdański 
+563, 22, 13, 09, Skarszewy 
+564, 22, 14, 01, Tczew 
+565, 22, 14, 02, Gniew 
+566, 22, 14, 04, Pelplin 
+567, 22, 15, 01, Reda 
+568, 22, 15, 02, Rumia 
+569, 22, 15, 03, Wejherowo 
+570, 22, 16, 01, Dzierzgoń 
+571, 22, 16, 05, Sztum 
+572, 22, 61, 01, Gdańsk 
+573, 22, 62, 01, Gdynia 
+574, 22, 63, 01, Słupsk 
+575, 22, 64, 01, Sopot 
+576, 24, 01, 01, Będzin 
+577, 24, 01, 02, Czeladź 
+578, 24, 01, 03, Wojkowice 
+579, 24, 01, 07, Siewierz 
+580, 24, 01, 08, Sławków 
+581, 24, 02, 01, Szczyrk 
+582, 24, 02, 04, Czechowice-Dziedzice 
+583, 24, 02, 09, Wilamowice 
+584, 24, 03, 01, Cieszyn 
+585, 24, 03, 02, Ustroń 
+586, 24, 03, 03, Wisła 
+587, 24, 03, 10, Skoczów 
+588, 24, 03, 11, Strumień 
+589, 24, 04, 01, Blachownia 
+590, 24, 04, 06, Koniecpol 
+591, 24, 05, 01, Knurów 
+592, 24, 05, 02, Pyskowice 
+593, 24, 05, 06, Sośnicowice 
+594, 24, 05, 07, Toszek 
+595, 24, 06, 01, Kłobuck 
+596, 24, 06, 02, Krzepice 
+597, 24, 07, 01, Lubliniec 
+598, 24, 07, 08, Woźniki 
+599, 24, 08, 01, Łaziska Górne 
+600, 24, 08, 02, Mikołów 
+601, 24, 08, 03, Orzesze 
+602, 24, 09, 01, Myszków 
+603, 24, 09, 02, Koziegłowy 
+604, 24, 09, 05, Żarki 
+605, 24, 10, 05, Pszczyna 
+606, 24, 11, 01, Racibórz 
+607, 24, 11, 03, Krzanowice 
+608, 24, 11, 05, Kuźnia Raciborska 
+609, 24, 12, 01, Czerwionka-Leszczyny 
+610, 24, 13, 01, Kalety 
+611, 24, 13, 02, Miasteczko Śląskie 
+612, 24, 13, 03, Radzionków 
+613, 24, 13, 04, Tarnowskie Góry 
+614, 24, 14, 01, Bieruń 
+615, 24, 14, 02, Imielin 
+616, 24, 14, 03, Lędziny 
+617, 24, 15, 01, Pszów 
+618, 24, 15, 02, Radlin 
+619, 24, 15, 03, Rydułtowy 
+620, 24, 15, 04, Wodzisław Śląski 
+621, 24, 16, 01, Poręba 
+622, 24, 16, 02, Zawiercie 
+623, 24, 16, 05, Łazy 
+624, 24, 16, 06, Ogrodzieniec 
+625, 24, 16, 07, Pilica 
+626, 24, 16, 08, Szczekociny 
+627, 24, 17, 01, Żywiec 
+628, 24, 61, 01, Bielsko-Biała 
+629, 24, 62, 01, Bytom 
+630, 24, 63, 01, Chorzów 
+631, 24, 64, 01, Częstochowa 
+632, 24, 65, 01, Dąbrowa Górnicza 
+633, 24, 66, 01, Gliwice 
+634, 24, 67, 01, Jastrzębie-Zdrój 
+635, 24, 68, 01, Jaworzno 
+636, 24, 69, 01, Katowice 
+637, 24, 70, 01, Mysłowice 
+638, 24, 71, 01, Piekary Śląskie 
+639, 24, 72, 01, Ruda Śląska 
+640, 24, 73, 01, Rybnik 
+641, 24, 74, 01, Siemianowice Śląskie 
+642, 24, 75, 01, Sosnowiec 
+643, 24, 76, 01, Świętochłowice 
+644, 24, 77, 01, Tychy 
+645, 24, 78, 01, Zabrze 
+646, 24, 79, 01, Żory 
+647, 26, 01, 01, Busko-Zdrój 
+648, 26, 02, 02, Jędrzejów 
+649, 26, 02, 03, Małogoszcz 
+650, 26, 02, 06, Sędziszów 
+651, 26, 03, 03, Kazimierza Wielka 
+652, 26, 03, 05, Skalbmierz 
+653, 26, 04, 02, Bodzentyn 
+654, 26, 04, 03, Chęciny 
+655, 26, 04, 04, Chmielnik 
+656, 26, 04, 05, Daleszyce 
+657, 26, 05, 03, Końskie 
+658, 26, 05, 08, Stąporków 
+659, 26, 06, 04, Opatów 
+660, 26, 06, 05, Ożarów 
+661, 26, 07, 01, Ostrowiec Świętokrzyski 
+662, 26, 07, 04, Ćmielów 
+663, 26, 07, 05, Kunów 
+664, 26, 08, 01, Działoszyce 
+665, 26, 08, 04, Pińczów 
+666, 26, 09, 01, Sandomierz 
+667, 26, 09, 04, Koprzywnica 
+668, 26, 09, 09, Zawichost 
+669, 26, 10, 01, Skarżysko-Kamienna 
+670, 26, 10, 05, Suchedniów 
+671, 26, 11, 01, Starachowice 
+672, 26, 11, 05, Wąchock 
+673, 26, 12, 04, Osiek 
+674, 26, 12, 05, Połaniec 
+675, 26, 12, 07, Staszów 
+676, 26, 13, 06, Włoszczowa 
+677, 26, 61, 01, Kielce 
+678, 28, 01, 01, Bartoszyce 
+679, 28, 01, 02, Górowo Iławeckie 
+680, 28, 01, 04, Bisztynek 
+681, 28, 01, 06, Sępopol 
+682, 28, 02, 01, Braniewo 
+683, 28, 02, 03, Frombork 
+684, 28, 02, 05, Pieniężno 
+685, 28, 03, 01, Działdowo 
+686, 28, 03, 04, Lidzbark 
+687, 28, 04, 06, Młynary 
+688, 28, 04, 07, Pasłęk 
+689, 28, 04, 09, Tolkmicko 
+690, 28, 05, 01, Ełk 
+691, 28, 06, 01, Giżycko 
+692, 28, 06, 08, Ryn 
+693, 28, 07, 01, Iława 
+694, 28, 07, 02, Lubawa 
+695, 28, 07, 04, Kisielice 
+696, 28, 07, 06, Susz 
+697, 28, 07, 07, Zalewo 
+698, 28, 08, 01, Kętrzyn 
+699, 28, 08, 04, Korsze 
+700, 28, 08, 05, Reszel 
+701, 28, 09, 01, Lidzbark Warmiński 
+702, 28, 09, 05, Orneta 
+703, 28, 10, 01, Mrągowo 
+704, 28, 10, 02, Mikołajki 
+705, 28, 11, 04, Nidzica 
+706, 28, 12, 01, Nowe Miasto Lubawskie 
+707, 28, 13, 04, Olecko 
+708, 28, 14, 01, Barczewo 
+709, 28, 14, 02, Biskupiec 
+710, 28, 14, 03, Dobre Miasto 
+711, 28, 14, 06, Jeziorany 
+712, 28, 14, 09, Olsztynek 
+713, 28, 15, 01, Ostróda 
+714, 28, 15, 06, Miłakowo 
+715, 28, 15, 07, Miłomłyn 
+716, 28, 15, 08, Morąg 
+717, 28, 16, 01, Biała Piska 
+718, 28, 16, 02, Orzysz 
+719, 28, 16, 03, Pisz 
+720, 28, 16, 04, Ruciane-Nida 
+721, 28, 17, 01, Szczytno 
+722, 28, 17, 04, Pasym 
+723, 28, 18, 03, Gołdap 
+724, 28, 19, 03, Węgorzewo 
+725, 28, 61, 01, Elbląg 
+726, 28, 62, 01, Olsztyn 
+727, 30, 01, 01, Chodzież 
+728, 30, 01, 04, Margonin 
+729, 30, 01, 05, Szamocin 
+730, 30, 02, 01, Czarnków 
+731, 30, 02, 04, Krzyż Wielkopolski 
+732, 30, 02, 07, Trzcianka 
+733, 30, 02, 08, Wieleń 
+734, 30, 03, 01, Gniezno 
+735, 30, 03, 02, Czerniejewo 
+736, 30, 03, 05, Kłecko 
+737, 30, 03, 09, Trzemeszno 
+738, 30, 03, 10, Witkowo 
+739, 30, 04, 01, Borek Wielkopolski 
+740, 30, 04, 02, Gostyń 
+741, 30, 04, 03, Krobia 
+742, 30, 04, 06, Pogorzela 
+743, 30, 04, 07, Poniec 
+744, 30, 05, 02, Grodzisk Wielkopolski 
+745, 30, 05, 04, Rakoniewice 
+746, 30, 05, 05, Wielichowo 
+747, 30, 06, 02, Jarocin 
+748, 30, 06, 04, Żerków 
+749, 30, 07, 09, Stawiszyn 
+750, 30, 08, 03, Kępno 
+751, 30, 09, 01, Koło 
+752, 30, 09, 04, Dąbie 
+753, 30, 09, 06, Kłodawa 
+754, 30, 09, 11, Przedecz 
+755, 30, 10, 01, Golina 
+756, 30, 10, 04, Kleczew 
+757, 30, 10, 07, Rychwał 
+758, 30, 10, 10, Sompolno 
+759, 30, 10, 12, Ślesin 
+760, 30, 11, 01, Kościan 
+761, 30, 11, 02, Czempiń 
+762, 30, 11, 04, Krzywiń 
+763, 30, 11, 05, Śmigiel 
+764, 30, 12, 01, Sulmierzyce 
+765, 30, 12, 02, Kobylin 
+766, 30, 12, 03, Koźmin Wielkopolski 
+767, 30, 12, 04, Krotoszyn 
+768, 30, 12, 06, Zduny 
+769, 30, 13, 03, Osieczna 
+770, 30, 13, 04, Rydzyna 
+771, 30, 14, 03, Międzychód 
+772, 30, 14, 04, Sieraków 
+773, 30, 15, 02, Lwówek 
+774, 30, 15, 04, Nowy Tomyśl 
+775, 30, 15, 05, Opalenica 
+776, 30, 15, 06, Zbąszyń 
+777, 30, 16, 01, Oborniki 
+778, 30, 16, 02, Rogoźno 
+779, 30, 17, 01, Ostrów Wielkopolski 
+780, 30, 17, 02, Nowe Skalmierzyce 
+781, 30, 17, 03, Odolanów 
+782, 30, 17, 06, Raszków 
+783, 30, 18, 03, Grabów nad Prosną 
+784, 30, 18, 06, Mikstat 
+785, 30, 18, 07, Ostrzeszów 
+786, 30, 19, 01, Piła 
+787, 30, 19, 04, Łobżenica 
+788, 30, 19, 07, Ujście 
+789, 30, 19, 08, Wyrzysk 
+790, 30, 19, 09, Wysoka 
+791, 30, 20, 06, Pleszew 
+792, 30, 21, 01, Luboń 
+793, 30, 21, 02, Puszczykowo 
+794, 30, 21, 03, Buk 
+795, 30, 21, 08, Kostrzyn 
+796, 30, 21, 09, Kórnik 
+797, 30, 21, 10, Mosina 
+798, 30, 21, 11, Murowana Goślina 
+799, 30, 21, 12, Pobiedziska 
+800, 30, 21, 14, Stęszew 
+801, 30, 21, 16, Swarzędz 
+802, 30, 22, 01, Bojanowo 
+803, 30, 22, 02, Jutrosin 
+804, 30, 22, 03, Miejska Górka 
+805, 30, 22, 05, Rawicz 
+806, 30, 23, 01, Słupca 
+807, 30, 23, 08, Zagórów 
+808, 30, 24, 01, Obrzycko 
+809, 30, 24, 05, Ostroróg 
+810, 30, 24, 06, Pniewy 
+811, 30, 24, 07, Szamotuły 
+812, 30, 24, 08, Wronki 
+813, 30, 25, 04, Środa Wielkopolska 
+814, 30, 26, 02, Dolsk 
+815, 30, 26, 03, Książ Wielkopolski 
+816, 30, 26, 04, Śrem 
+817, 30, 27, 01, Turek 
+818, 30, 27, 03, Dobra 
+819, 30, 27, 07, Tuliszków 
+820, 30, 28, 01, Wągrowiec 
+821, 30, 28, 03, Gołańcz 
+822, 30, 28, 05, Skoki 
+823, 30, 29, 03, Wolsztyn 
+824, 30, 30, 02, Miłosław 
+825, 30, 30, 03, Nekla 
+826, 30, 30, 04, Pyzdry 
+827, 30, 30, 05, Września 
+828, 30, 31, 01, Złotów 
+829, 30, 31, 02, Jastrowie 
+830, 30, 31, 03, Krajenka 
+831, 30, 31, 05, Okonek 
+832, 30, 61, 01, Kalisz 
+833, 30, 62, 01, Konin 
+834, 30, 63, 01, Leszno 
+835, 30, 64, 01, Poznań 
+836, 32, 01, 01, Białogard 
+837, 32, 01, 03, Karlino 
+838, 32, 02, 02, Choszczno 
+839, 32, 02, 03, Drawno 
+840, 32, 02, 05, Pełczyce 
+841, 32, 02, 06, Recz 
+842, 32, 03, 01, Czaplinek 
+843, 32, 03, 02, Drawsko Pomorskie 
+844, 32, 03, 03, Kalisz Pomorski 
+845, 32, 03, 06, Złocieniec 
+846, 32, 04, 02, Goleniów 
+847, 32, 04, 03, Maszewo 
+848, 32, 04, 04, Nowogard 
+849, 32, 05, 02, Gryfice 
+850, 32, 05, 04, Płoty 
+851, 32, 05, 08, Trzebiatów 
+852, 32, 06, 02, Cedynia 
+853, 32, 06, 03, Chojna 
+854, 32, 06, 04, Gryfino 
+855, 32, 06, 05, Mieszkowice 
+856, 32, 06, 06, Moryń 
+857, 32, 06, 08, Trzcińsko-Zdrój 
+858, 32, 07, 01, Dziwnów 
+859, 32, 07, 02, Golczewo 
+860, 32, 07, 03, Kamień Pomorski 
+861, 32, 07, 04, Międzyzdroje 
+862, 32, 07, 06, Wolin 
+863, 32, 08, 01, Kołobrzeg 
+864, 32, 09, 03, Bobolice 
+865, 32, 09, 06, Polanów 
+866, 32, 09, 07, Sianów 
+867, 32, 10, 01, Barlinek 
+868, 32, 10, 03, Dębno 
+869, 32, 10, 04, Myślibórz 
+870, 32, 11, 03, Nowe Warpno 
+871, 32, 11, 04, Police 
+872, 32, 12, 03, Lipiany 
+873, 32, 12, 05, Pyrzyce 
+874, 32, 13, 01, Darłowo 
+875, 32, 13, 02, Sławno 
+876, 32, 14, 01, Stargard Szczeciński 
+877, 32, 14, 02, Chociwel 
+878, 32, 14, 03, Dobrzany 
+879, 32, 14, 05, Ińsko 
+880, 32, 14, 11, Suchań 
+881, 32, 15, 01, Szczecinek 
+882, 32, 15, 02, Barwice 
+883, 32, 15, 03, Biały Bór 
+884, 32, 15, 04, Borne Sulinowo 
+885, 32, 16, 01, Świdwin 
+886, 32, 16, 03, Połczyn-Zdrój 
+887, 32, 17, 01, Wałcz 
+888, 32, 17, 02, Człopa 
+889, 32, 17, 03, Mirosławiec 
+890, 32, 17, 04, Tuczno 
+891, 32, 18, 01, Dobra 
+892, 32, 18, 02, Łobez 
+893, 32, 18, 04, Resko 
+894, 32, 18, 05, Węgorzyno 
+895, 32, 61, 01, Koszalin 
+896, 32, 62, 01, Szczecin 
+897, 32, 63, 01, Świnoujście 

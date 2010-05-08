@@ -1,0 +1,380 @@
+id, region_id, code,name,name_ext
+1, 02, 01,  bolesławiecki, powiat 
+2, 02, 02,  dzierżoniowski, powiat 
+3, 02, 03,  głogowski, powiat 
+4, 02, 04,  górowski, powiat 
+5, 02, 05,  jaworski, powiat 
+6, 02, 06,  jeleniogórski, powiat 
+7, 02, 07,  kamiennogórski, powiat 
+8, 02, 08,  kłodzki, powiat 
+9, 02, 09,  legnicki, powiat 
+10, 02, 10,  lubański, powiat 
+11, 02, 11,  lubiński, powiat 
+12, 02, 12,  lwówecki, powiat 
+13, 02, 13,  milicki, powiat 
+14, 02, 14,  oleśnicki, powiat 
+15, 02, 15,  oławski, powiat 
+16, 02, 16,  polkowicki, powiat 
+17, 02, 17,  strzeliński, powiat 
+18, 02, 18,  średzki, powiat 
+19, 02, 19,  świdnicki, powiat 
+20, 02, 20,  trzebnicki, powiat 
+21, 02, 21,  wałbrzyski, powiat 
+22, 02, 22,  wołowski, powiat 
+23, 02, 23,  wrocławski, powiat 
+24, 02, 24,  ząbkowicki, powiat 
+25, 02, 25,  zgorzelecki, powiat 
+26, 02, 26,  złotoryjski, powiat 
+27, 02, 61,  Jelenia Góra, miasto na prawach powiatu 
+28, 02, 62,  Legnica, miasto na prawach powiatu 
+29, 02, 64,  Wrocław, miasto na prawach powiatu 
+30, 04, 01,  aleksandrowski, powiat 
+31, 04, 02,  brodnicki, powiat 
+32, 04, 03,  bydgoski, powiat 
+33, 04, 04,  chełmiński, powiat 
+34, 04, 05,  golubsko-dobrzyński, powiat 
+35, 04, 06,  grudziądzki, powiat 
+36, 04, 07,  inowrocławski, powiat 
+37, 04, 08,  lipnowski, powiat 
+38, 04, 09,  mogileński, powiat 
+39, 04, 10,  nakielski, powiat 
+40, 04, 11,  radziejowski, powiat 
+41, 04, 12,  rypiński, powiat 
+42, 04, 13,  sępoleński, powiat 
+43, 04, 14,  świecki, powiat 
+44, 04, 15,  toruński, powiat 
+45, 04, 16,  tucholski, powiat 
+46, 04, 17,  wąbrzeski, powiat 
+47, 04, 18,  włocławski, powiat 
+48, 04, 19,  żniński, powiat 
+49, 04, 61,  Bydgoszcz, miasto na prawach powiatu 
+50, 04, 62,  Grudziądz, miasto na prawach powiatu 
+51, 04, 63,  Toruń, miasto na prawach powiatu 
+52, 04, 64,  Włocławek, miasto na prawach powiatu 
+53, 06, 01,  bialski, powiat 
+54, 06, 02,  biłgorajski, powiat 
+55, 06, 03,  chełmski, powiat 
+56, 06, 04,  hrubieszowski, powiat 
+57, 06, 05,  janowski, powiat 
+58, 06, 06,  krasnostawski, powiat 
+59, 06, 07,  kraśnicki, powiat 
+60, 06, 08,  lubartowski, powiat 
+61, 06, 09,  lubelski, powiat 
+62, 06, 10,  łęczyński, powiat 
+63, 06, 11,  łukowski, powiat 
+64, 06, 12,  opolski, powiat 
+65, 06, 13,  parczewski, powiat 
+66, 06, 14,  puławski, powiat 
+67, 06, 15,  radzyński, powiat 
+68, 06, 16,  rycki, powiat 
+69, 06, 17,  świdnicki, powiat 
+70, 06, 18,  tomaszowski, powiat 
+71, 06, 19,  włodawski, powiat 
+72, 06, 20,  zamojski, powiat 
+73, 06, 61,  Biała Podlaska, miasto na prawach powiatu 
+74, 06, 62,  Chełm, miasto na prawach powiatu 
+75, 06, 63,  Lublin, miasto na prawach powiatu 
+76, 06, 64,  Zamość, miasto na prawach powiatu 
+77, 08, 01,  gorzowski, powiat 
+78, 08, 02,  krośnieński, powiat 
+79, 08, 03,  międzyrzecki, powiat 
+80, 08, 04,  nowosolski, powiat 
+81, 08, 05,  słubicki, powiat 
+82, 08, 06,  strzelecko-drezdenecki, powiat 
+83, 08, 07,  sulęciński, powiat 
+84, 08, 08,  świebodziński, powiat 
+85, 08, 09,  zielonogórski, powiat 
+86, 08, 10,  żagański, powiat 
+87, 08, 11,  żarski, powiat 
+88, 08, 12,  wschowski, powiat 
+89, 08, 61,  Gorzów Wielkopolski, miasto na prawach powiatu 
+90, 08, 62,  Zielona Góra, miasto na prawach powiatu 
+91, 10, 01,  bełchatowski, powiat 
+92, 10, 02,  kutnowski, powiat 
+93, 10, 03,  łaski, powiat 
+94, 10, 04,  łęczycki, powiat 
+95, 10, 05,  łowicki, powiat 
+96, 10, 06,  łódzki wschodni, powiat 
+97, 10, 07,  opoczyński, powiat 
+98, 10, 08,  pabianicki, powiat 
+99, 10, 09,  pajęczański, powiat 
+100, 10, 10,  piotrkowski, powiat 
+101, 10, 11,  poddębicki, powiat 
+102, 10, 12,  radomszczański, powiat 
+103, 10, 13,  rawski, powiat 
+104, 10, 14,  sieradzki, powiat 
+105, 10, 15,  skierniewicki, powiat 
+106, 10, 16,  tomaszowski, powiat 
+107, 10, 17,  wieluński, powiat 
+108, 10, 18,  wieruszowski, powiat 
+109, 10, 19,  zduńskowolski, powiat 
+110, 10, 20,  zgierski, powiat 
+111, 10, 21,  brzeziński, powiat 
+112, 10, 61,  Łódź, miasto na prawach powiatu 
+113, 10, 62,  Piotrków Trybunalski, miasto na prawach powiatu 
+114, 10, 63,  Skierniewice, miasto na prawach powiatu 
+115, 12, 01,  bocheński, powiat 
+116, 12, 02,  brzeski, powiat 
+117, 12, 03,  chrzanowski, powiat 
+118, 12, 04,  dąbrowski, powiat 
+119, 12, 05,  gorlicki, powiat 
+120, 12, 06,  krakowski, powiat 
+121, 12, 07,  limanowski, powiat 
+122, 12, 08,  miechowski, powiat 
+123, 12, 09,  myślenicki, powiat 
+124, 12, 10,  nowosądecki, powiat 
+125, 12, 11,  nowotarski, powiat 
+126, 12, 12,  olkuski, powiat 
+127, 12, 13,  oświęcimski, powiat 
+128, 12, 14,  proszowicki, powiat 
+129, 12, 15,  suski, powiat 
+130, 12, 16,  tarnowski, powiat 
+131, 12, 17,  tatrzański, powiat 
+132, 12, 18,  wadowicki, powiat 
+133, 12, 19,  wielicki, powiat 
+134, 12, 61,  Kraków, miasto na prawach powiatu 
+135, 12, 62,  Nowy Sącz, miasto na prawach powiatu 
+136, 12, 63,  Tarnów, miasto na prawach powiatu 
+137, 14, 01,  białobrzeski, powiat 
+138, 14, 02,  ciechanowski, powiat 
+139, 14, 03,  garwoliński, powiat 
+140, 14, 04,  gostyniński, powiat 
+141, 14, 05,  grodziski, powiat 
+142, 14, 06,  grójecki, powiat 
+143, 14, 07,  kozienicki, powiat 
+144, 14, 08,  legionowski, powiat 
+145, 14, 09,  lipski, powiat 
+146, 14, 10,  łosicki, powiat 
+147, 14, 11,  makowski, powiat 
+148, 14, 12,  miński, powiat 
+149, 14, 13,  mławski, powiat 
+150, 14, 14,  nowodworski, powiat 
+151, 14, 15,  ostrołęcki, powiat 
+152, 14, 16,  ostrowski, powiat 
+153, 14, 17,  otwocki, powiat 
+154, 14, 18,  piaseczyński, powiat 
+155, 14, 19,  płocki, powiat 
+156, 14, 20,  płoński, powiat 
+157, 14, 21,  pruszkowski, powiat 
+158, 14, 22,  przasnyski, powiat 
+159, 14, 23,  przysuski, powiat 
+160, 14, 24,  pułtuski, powiat 
+161, 14, 25,  radomski, powiat 
+162, 14, 26,  siedlecki, powiat 
+163, 14, 27,  sierpecki, powiat 
+164, 14, 28,  sochaczewski, powiat 
+165, 14, 29,  sokołowski, powiat 
+166, 14, 30,  szydłowiecki, powiat 
+167, 14, 32,  warszawski zachodni, powiat 
+168, 14, 33,  węgrowski, powiat 
+169, 14, 34,  wołomiński, powiat 
+170, 14, 35,  wyszkowski, powiat 
+171, 14, 36,  zwoleński, powiat 
+172, 14, 37,  żuromiński, powiat 
+173, 14, 38,  żyrardowski, powiat 
+174, 14, 61,  Ostrołęka, miasto na prawach powiatu 
+175, 14, 62,  Płock, miasto na prawach powiatu 
+176, 14, 63,  Radom, miasto na prawach powiatu 
+177, 14, 64,  Siedlce, miasto na prawach powiatu 
+178, 14, 65,  Warszawa, miasto stołeczne/ na prawach powiatu 
+179, 16, 01,  brzeski, powiat 
+180, 16, 02,  głubczycki, powiat 
+181, 16, 03,  kędzierzyńsko-kozielski, powiat 
+182, 16, 04,  kluczborski, powiat 
+183, 16, 05,  krapkowicki, powiat 
+184, 16, 06,  namysłowski, powiat 
+185, 16, 07,  nyski, powiat 
+186, 16, 08,  oleski, powiat 
+187, 16, 09,  opolski, powiat 
+188, 16, 10,  prudnicki, powiat 
+189, 16, 11,  strzelecki, powiat 
+190, 16, 61,  Opole, miasto na prawach powiatu 
+191, 18, 01,  bieszczadzki, powiat 
+192, 18, 02,  brzozowski, powiat 
+193, 18, 03,  dębicki, powiat 
+194, 18, 04,  jarosławski, powiat 
+195, 18, 05,  jasielski, powiat 
+196, 18, 06,  kolbuszowski, powiat 
+197, 18, 07,  krośnieński, powiat 
+198, 18, 08,  leżajski, powiat 
+199, 18, 09,  lubaczowski, powiat 
+200, 18, 10,  łańcucki, powiat 
+201, 18, 11,  mielecki, powiat 
+202, 18, 12,  niżański, powiat 
+203, 18, 13,  przemyski, powiat 
+204, 18, 14,  przeworski, powiat 
+205, 18, 15,  ropczycko-sędziszowski, powiat 
+206, 18, 16,  rzeszowski, powiat 
+207, 18, 17,  sanocki, powiat 
+208, 18, 18,  stalowowolski, powiat 
+209, 18, 19,  strzyżowski, powiat 
+210, 18, 20,  tarnobrzeski, powiat 
+211, 18, 21,  leski, powiat 
+212, 18, 61,  Krosno, miasto na prawach powiatu 
+213, 18, 62,  Przemyśl, miasto na prawach powiatu 
+214, 18, 63,  Rzeszów, miasto na prawach powiatu 
+215, 18, 64,  Tarnobrzeg, miasto na prawach powiatu 
+216, 20, 01,  augustowski, powiat 
+217, 20, 02,  białostocki, powiat 
+218, 20, 03,  bielski, powiat 
+219, 20, 04,  grajewski, powiat 
+220, 20, 05,  hajnowski, powiat 
+221, 20, 06,  kolneński, powiat 
+222, 20, 07,  łomżyński, powiat 
+223, 20, 08,  moniecki, powiat 
+224, 20, 09,  sejneński, powiat 
+225, 20, 10,  siemiatycki, powiat 
+226, 20, 11,  sokólski, powiat 
+227, 20, 12,  suwalski, powiat 
+228, 20, 13,  wysokomazowiecki, powiat 
+229, 20, 14,  zambrowski, powiat 
+230, 20, 61,  Białystok, miasto na prawach powiatu 
+231, 20, 62,  Łomża, miasto na prawach powiatu 
+232, 20, 63,  Suwałki, miasto na prawach powiatu 
+233, 22, 01,  bytowski, powiat 
+234, 22, 02,  chojnicki, powiat 
+235, 22, 03,  człuchowski, powiat 
+236, 22, 04,  gdański, powiat 
+237, 22, 05,  kartuski, powiat 
+238, 22, 06,  kościerski, powiat 
+239, 22, 07,  kwidzyński, powiat 
+240, 22, 08,  lęborski, powiat 
+241, 22, 09,  malborski, powiat 
+242, 22, 10,  nowodworski, powiat 
+243, 22, 11,  pucki, powiat 
+244, 22, 12,  słupski, powiat 
+245, 22, 13,  starogardzki, powiat 
+246, 22, 14,  tczewski, powiat 
+247, 22, 15,  wejherowski, powiat 
+248, 22, 16,  sztumski, powiat 
+249, 22, 61,  Gdańsk, miasto na prawach powiatu 
+250, 22, 62,  Gdynia, miasto na prawach powiatu 
+251, 22, 63,  Słupsk, miasto na prawach powiatu 
+252, 22, 64,  Sopot, miasto na prawach powiatu 
+253, 24, 01,  będziński, powiat 
+254, 24, 02,  bielski, powiat 
+255, 24, 03,  cieszyński, powiat 
+256, 24, 04,  częstochowski, powiat 
+257, 24, 05,  gliwicki, powiat 
+258, 24, 06,  kłobucki, powiat 
+259, 24, 07,  lubliniecki, powiat 
+260, 24, 08,  mikołowski, powiat 
+261, 24, 09,  myszkowski, powiat 
+262, 24, 10,  pszczyński, powiat 
+263, 24, 11,  raciborski, powiat 
+264, 24, 12,  rybnicki, powiat 
+265, 24, 13,  tarnogórski, powiat 
+266, 24, 14,  bieruńsko-lędziński, powiat 
+267, 24, 15,  wodzisławski, powiat 
+268, 24, 16,  zawierciański, powiat 
+269, 24, 17,  żywiecki, powiat 
+270, 24, 61,  Bielsko-Biała, miasto na prawach powiatu 
+271, 24, 62,  Bytom, miasto na prawach powiatu 
+272, 24, 63,  Chorzów, miasto na prawach powiatu 
+273, 24, 64,  Częstochowa, miasto na prawach powiatu 
+274, 24, 65,  Dąbrowa Górnicza, miasto na prawach powiatu 
+275, 24, 66,  Gliwice, miasto na prawach powiatu 
+276, 24, 67,  Jastrzębie-Zdrój, miasto na prawach powiatu 
+277, 24, 68,  Jaworzno, miasto na prawach powiatu 
+278, 24, 69,  Katowice, miasto na prawach powiatu 
+279, 24, 70,  Mysłowice, miasto na prawach powiatu 
+280, 24, 71,  Piekary Śląskie, miasto na prawach powiatu 
+281, 24, 72,  Ruda Śląska, miasto na prawach powiatu 
+282, 24, 73,  Rybnik, miasto na prawach powiatu 
+283, 24, 74,  Siemianowice Śląskie, miasto na prawach powiatu 
+284, 24, 75,  Sosnowiec, miasto na prawach powiatu 
+285, 24, 76,  Świętochłowice, miasto na prawach powiatu 
+286, 24, 77,  Tychy, miasto na prawach powiatu 
+287, 24, 78,  Zabrze, miasto na prawach powiatu 
+288, 24, 79,  Żory, miasto na prawach powiatu 
+289, 26, 01,  buski, powiat 
+290, 26, 02,  jędrzejowski, powiat 
+291, 26, 03,  kazimierski, powiat 
+292, 26, 04,  kielecki, powiat 
+293, 26, 05,  konecki, powiat 
+294, 26, 06,  opatowski, powiat 
+295, 26, 07,  ostrowiecki, powiat 
+296, 26, 08,  pińczowski, powiat 
+297, 26, 09,  sandomierski, powiat 
+298, 26, 10,  skarżyski, powiat 
+299, 26, 11,  starachowicki, powiat 
+300, 26, 12,  staszowski, powiat 
+301, 26, 13,  włoszczowski, powiat 
+302, 26, 61,  Kielce, miasto na prawach powiatu 
+303, 28, 01,  bartoszycki, powiat 
+304, 28, 02,  braniewski, powiat 
+305, 28, 03,  działdowski, powiat 
+306, 28, 04,  elbląski, powiat 
+307, 28, 05,  ełcki, powiat 
+308, 28, 06,  giżycki, powiat 
+309, 28, 07,  iławski, powiat 
+310, 28, 08,  kętrzyński, powiat 
+311, 28, 09,  lidzbarski, powiat 
+312, 28, 10,  mrągowski, powiat 
+313, 28, 11,  nidzicki, powiat 
+314, 28, 12,  nowomiejski, powiat 
+315, 28, 13,  olecki, powiat 
+316, 28, 14,  olsztyński, powiat 
+317, 28, 15,  ostródzki, powiat 
+318, 28, 16,  piski, powiat 
+319, 28, 17,  szczycieński, powiat 
+320, 28, 18,  gołdapski, powiat 
+321, 28, 19,  węgorzewski, powiat 
+322, 28, 61,  Elbląg, miasto na prawach powiatu 
+323, 28, 62,  Olsztyn, miasto na prawach powiatu 
+324, 30, 01,  chodzieski, powiat 
+325, 30, 02,  czarnkowsko-trzcianecki, powiat 
+326, 30, 03,  gnieźnieński, powiat 
+327, 30, 04,  gostyński, powiat 
+328, 30, 05,  grodziski, powiat 
+329, 30, 06,  jarociński, powiat 
+330, 30, 07,  kaliski, powiat 
+331, 30, 08,  kępiński, powiat 
+332, 30, 09,  kolski, powiat 
+333, 30, 10,  koniński, powiat 
+334, 30, 11,  kościański, powiat 
+335, 30, 12,  krotoszyński, powiat 
+336, 30, 13,  leszczyński, powiat 
+337, 30, 14,  międzychodzki, powiat 
+338, 30, 15,  nowotomyski, powiat 
+339, 30, 16,  obornicki, powiat 
+340, 30, 17,  ostrowski, powiat 
+341, 30, 18,  ostrzeszowski, powiat 
+342, 30, 19,  pilski, powiat 
+343, 30, 20,  pleszewski, powiat 
+344, 30, 21,  poznański, powiat 
+345, 30, 22,  rawicki, powiat 
+346, 30, 23,  słupecki, powiat 
+347, 30, 24,  szamotulski, powiat 
+348, 30, 25,  średzki, powiat 
+349, 30, 26,  śremski, powiat 
+350, 30, 27,  turecki, powiat 
+351, 30, 28,  wągrowiecki, powiat 
+352, 30, 29,  wolsztyński, powiat 
+353, 30, 30,  wrzesiński, powiat 
+354, 30, 31,  złotowski, powiat 
+355, 30, 61,  Kalisz, miasto na prawach powiatu 
+356, 30, 62,  Konin, miasto na prawach powiatu 
+357, 30, 63,  Leszno, miasto na prawach powiatu 
+358, 30, 64,  Poznań, miasto na prawach powiatu 
+359, 32, 01,  białogardzki, powiat 
+360, 32, 02,  choszczeński, powiat 
+361, 32, 03,  drawski, powiat 
+362, 32, 04,  goleniowski, powiat 
+363, 32, 05,  gryficki, powiat 
+364, 32, 06,  gryfiński, powiat 
+365, 32, 07,  kamieński, powiat 
+366, 32, 08,  kołobrzeski, powiat 
+367, 32, 09,  koszaliński, powiat 
+368, 32, 10,  myśliborski, powiat 
+369, 32, 11,  policki, powiat 
+370, 32, 12,  pyrzycki, powiat 
+371, 32, 13,  sławieński, powiat 
+372, 32, 14,  stargardzki, powiat 
+373, 32, 15,  szczecinecki, powiat 
+374, 32, 16,  świdwiński, powiat 
+375, 32, 17,  wałecki, powiat 
+376, 32, 18,  łobeski, powiat 
+377, 32, 61,  Koszalin, miasto na prawach powiatu 
+378, 32, 62,  Szczecin, miasto na prawach powiatu 
+379, 32, 63,  Świnoujście, miasto na prawach powiatu 

@@ -1,0 +1,17 @@
+id, country_id, code,name,name_ext
+1, 161 , 02, dolnośląskie, województwo 
+2, 161 , 04, kujawsko-pomorskie, województwo 
+3, 161 , 06, lubelskie, województwo 
+4, 161 , 08, lubuskie, województwo 
+5, 161 , 10, łódzkie, województwo 
+6, 161 , 12, małopolskie, województwo 
+7, 161 , 14, mazowieckie, województwo 
+8, 161 , 16, opolskie, województwo 
+9, 161 , 18, podkarpackie, województwo 
+10, 161 , 20, podlaskie, województwo 
+11, 161 , 22, pomorskie, województwo 
+12, 161 , 24, śląskie, województwo 
+13, 161 , 26, świętokrzyskie, województwo 
+14, 161 , 28, warmińsko-mazurskie, województwo 
+15, 161 , 30, wielkopolskie, województwo 
+16, 161 , 32, zachodniopomorskie, województwo 
