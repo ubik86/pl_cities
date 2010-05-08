@@ -1,10 +1,10 @@
-=PL Cities
+= PL Cities
 
 This plugin contains ActiveRecord Models and fixtures for Polish cities, regions, communities and counties (miasta, województwa, gminy i powiaty).
 
 This is beta version. Please check and let me know if something doesn't work ;)
 
-==Install
+== Install
   
   Plugin generator will generate migrations for tables named [city, community,county, region] 
   so if you already have same tables you need to rename them!
@@ -15,7 +15,7 @@ This is beta version. Please check and let me know if something doesn't work ;)
   rake db:migrate
   rake db:fixtures:load
 
-==Example
+== Example
 
   >> city = City.find_by_name("Szczecin")
   => #<City id: 896, region_id: 32, county_id: 62, community_id: 1, name: "Szczecin", created_at: "2010-03-15 17:30:01", updated_at: "2010-03-15 17:30:01">
@@ -27,7 +27,7 @@ This is beta version. Please check and let me know if something doesn't work ;)
   List of communities in West Pomeranian Voivodship
 
 
-==Contact
+== Contact
 
 Any bugs, questions, comments please feel free to email me : boguslaw.tarnowski@gmail.com
 
